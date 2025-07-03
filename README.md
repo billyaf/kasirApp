@@ -11,17 +11,6 @@ Aplikasi Point of Sale (POS) atau kasir desktop yang dibuat menggunakan Python d
 <p align="center">
   <img src="screenshot.jpg" alt="Tampilan Utama Aplikasi">
 </p>
-*(Screenshot tampilan utama Anda di sini - pastikan nama file dan path sesuai)*
-
-## Tampilan Aplikasi Lain
-
-| Tampilan Login | Halaman Kasir (Dengan Search Bar) |
-| :---: | :---: |
-| *(Screenshot halaman login Anda di sini)* | *(Screenshot halaman kasir Anda di sini)* |
-
-| Manajemen Produk | Laporan Penjualan | Struk PDF |
-| :---: | :---: | :---: |
-| *(Screenshot halaman manajemen produk)* | *(Screenshot halaman laporan)* | *(Screenshot contoh struk PDF)* |
 
 ## Fitur Utama
 
@@ -55,11 +44,11 @@ Aplikasi Point of Sale (POS) atau kasir desktop yang dibuat menggunakan Python d
 Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 
 1.  **Clone Repositori**
-    Pastikan Anda berada di Jatiwangi atau memiliki koneksi internet yang stabil.
+    Pastikan Anda memiliki koneksi internet yang stabil.
     
     ````bash
-    git clone [https://github.com/NAMA_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_ANDA/NAMA_REPO_ANDA.git)
-    cd NAMA_REPO_ANDA
+    git clone https://github.com/billyaf/kasirApp
+    cd kasirApp
     ````
 
 2.  **Buat Virtual Environment (Disarankan)**
