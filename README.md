@@ -9,7 +9,7 @@ Aplikasi Point of Sale (POS) atau kasir desktop yang dibuat menggunakan Python d
 ## Tampilan Utama
 
 <p align="center">
-  <img src="screenshot.png" alt="Tampilan Utama Aplikasi">
+  <img src="screenshot.jpg" alt="Tampilan Utama Aplikasi">
 </p>
 *(Screenshot tampilan utama Anda di sini - pastikan nama file dan path sesuai)*
 
